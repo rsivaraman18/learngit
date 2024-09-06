@@ -1,3 +1,0 @@
-Hiii .. This is an Index File to learn the Git hub lesson .
-Created in GitHub Browser
-Now I am edited this page from Git.
